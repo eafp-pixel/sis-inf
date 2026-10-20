@@ -1,4 +1,4 @@
-# Guía de contribución
+# Cómo contribuir al perfil de SIS-INF
 
 ## Cómo previsualizar el README
 
@@ -95,6 +95,8 @@ Para mantener organizada la documentación del repositorio, se deben seguir esta
 
 5. **Revisión de cambios:** Antes de enviar un PR, se debe comprobar que los marcadores se hayan respetado y que solamente se haya modificado la sección correspondiente.
 
+## Cómo proponer un cambio
+
 Todo cambio en el repositorio parte de una issue y se integra mediante un Pull Request. El flujo es el siguiente:
 
 1. *Tomar una issue:* elegir una issue abierta en la pestaña *Issues* y leer su contexto, los archivos que se deben modificar, la rama de trabajo y los criterios de aceptación.
@@ -117,7 +119,7 @@ Todo cambio en el repositorio parte de una issue y se integra mediante un Pull R
 
 4. *Abrir el Pull Request:* en GitHub, pulsar *Compare & pull request*, elegir la rama de destino que indique la issue y completar la plantilla. En la descripción se debe escribir Closes #N, donde N es el número de la issue. Así el PR queda vinculado a la issue, y esta se cierra automáticamente cuando el PR se integra en la rama principal.
 
-## Revisión y merge de Pull Requests
+## Revisión y merge
 
 Antes de integrar los cambios en el proyecto, cada Pull Request debe pasar por un proceso de revisión para comprobar que cumple los requisitos del repositorio.
 
